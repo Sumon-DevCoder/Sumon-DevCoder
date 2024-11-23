@@ -1,5 +1,3 @@
-![MasterHead](https://i.ibb.co.com/MCHvsxP/file.png)
-
 <p align="center">
   <img src="https://i.ibb.co.com/MCHvsxP/file.png" />
 </p>
