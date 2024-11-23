@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  style="width: 100%" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  style="width: 80%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devasif98&label=Profile%20views&color=0e75b6&style=flat" alt="devasif98" /> </p>
 
