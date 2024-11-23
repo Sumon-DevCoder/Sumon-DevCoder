@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Sumon.DevCoder@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me /></h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/mustafizur-rahman-sumon-790199290/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="masumbillah99"  /></a>
 <a href="https://www.facebook.com/sumon.devcoder" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="masumbillah99" /></a>
