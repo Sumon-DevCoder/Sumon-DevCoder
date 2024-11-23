@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/29b91d7a-578d-4f39-b9c2-a10a9861c45f)![MasterHead](https://jayamwebsolutions.com/img/website.gif)
-![Web Developer](https://i.ibb.co.com/MCHvsxP/file.png)
+![Web Developer](https://i.ibb.co.com/sqzrV5S/Mustafizur-Rahman.png)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mustafizur+Rahman+Sumon!;" />
