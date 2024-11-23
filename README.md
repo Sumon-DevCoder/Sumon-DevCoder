@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mustafizur+Rahman+Sumon!;" />
 </h1>
 <h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/sqzrV5S/Mustafizur-Rahman.png">
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  style="width: 100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devasif98&label=Profile%20views&color=0e75b6&style=flat" alt="devasif98" /> </p>
 
