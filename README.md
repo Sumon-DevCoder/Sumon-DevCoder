@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devasif98&label=Profile%20views&color=0e75b6&style=flat" alt="devasif98" /> </p>
 
-<p align="left"> <a href="https://twitter.com/asifsikder23" target="blank"><img src="https://img.shields.io/twitter/follow/asifsikder23?logo=twitter&style=for-the-badge" alt="asifsikder23" /></a> </p>
+
 
 - 🔭 I’m currently working on Full Stack Developer
 
 - 🌱 I’m currently learning **DBMS, PostgreSQL, Prisma, Docker**
 
-- 👨‍💻 All of my projects are available at ([Portfolio](https://sumon-dev-portfolio-fronted.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://sumon-dev-portfolio-fronted.vercel.app/)
 
 - 💬 Ask me about **MERN Stack Development**
 
