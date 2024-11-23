@@ -7,8 +7,6 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  style="width: 80%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon-devcoder&label=Profile%20views&color=0e75b6&style=flat" alt="sumon-devcoder" /> </p>
-
 - 🔭 I’m currently working as a Full Stack Developer
 
 - 🌱 I’m currently learning **DBMS, PostgreSQL, Prisma, Docker**
