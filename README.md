@@ -5,8 +5,6 @@
 </h1>
 <h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  style="width: 80%" />
-
 ![Code Time Per Day (Avg)](http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue)
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![Projects](https://img.shields.io/badge/projects-30-important)
@@ -14,6 +12,10 @@
 ![Age](https://img.shields.io/badge/age-24-blueviolet)
 ![views](https://komarev.com/ghpvc/?username=sumon-devcoder&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/sumon-devcoder?label=Follow&style=social)](https://github.com/sumon-devcoder)&nbsp;
+
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  style="width: 80%" />
+
 
 - 🔭 I’m currently working as a Full Stack Developer
 
@@ -142,12 +144,25 @@
   </a>
 </p>
 
-<h2 align="center">📊 Top Languages 📊</h2>
-<p align="center">
-  <a href="https://github.com/sumon-devcoder">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon-devcoder&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumon-devcoder&theme=monokai" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumon-devcoder&theme=monokai" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumon-devcoder&theme=monokai" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumon-devcoder&theme=monokai&utcOffset=6" />
+</div>
+
+
+
+
+
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumon-devcoder&theme=monokai" alt="GitHub Profile Summary Card" style="width:100%;">
+
+
+
 
 <details><summary>See visitors information</summary>
 
