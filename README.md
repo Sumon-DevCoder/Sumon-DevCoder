@@ -153,12 +153,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumon-devcoder&theme=monokai&utcOffset=6" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  />
+
 
 See visitors information
 
 >Counting of visitors to this page in this section started from January 02, 2023
 
 <div><img src="https://profile-counter.glitch.me/sumon-devcoder/count.svg" alt="Flag Counter" border="0"></div>
-
-</details>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  />
