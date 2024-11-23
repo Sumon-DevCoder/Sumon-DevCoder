@@ -36,10 +36,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=devasif98&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
   </a>
 </p>
-
-<h2 align="center">📈 Current Contribution Streak 📈</h2>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=devasif98&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-  </a>
-</p>
