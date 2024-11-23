@@ -9,17 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/asifsikder23" target="blank"><img src="https://img.shields.io/twitter/follow/asifsikder23?logo=twitter&style=for-the-badge" alt="asifsikder23" /></a> </p>
 
-- 🔭 I’m currently working on Canvas Developers
+- 🔭 I’m currently working on Full Stack Developer
 
-- 🌱 I’m currently learning **Typescript, Angular, Node.Js, Express and Firebase functions**
+- 🌱 I’m currently learning **DBMS, PostgreSQL, Prisma, Docker**
 
-- 👨‍💻 All of my projects are available at [https://asifsikder.vercel.app/](https://asifsikder.vercel.app)
+- 👨‍💻 All of my projects are available at ([Portfolio](https://sumon-dev-portfolio-fronted.vercel.app/))
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **MERN Stack Development**
 
-- 📫 How to reach me **asifsikder23@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/18ubG-0IT5cAFk9Xez0w0E-_VsQEkgS4o/view](https://drive.google.com/file/d/18ubG-0IT5cAFk9Xez0w0E-_VsQEkgS4o/view)
+- 📫 How to reach me **Sumon.DevCoder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
