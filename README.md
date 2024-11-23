@@ -144,7 +144,7 @@
   </a>
 </p>
 
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumon-devcoder&theme=monokai" alt="GitHub Profile Summary Card" style="width:100%;">
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumon-devcoder&theme=monokai" />
@@ -159,7 +159,7 @@
 
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumon-devcoder&theme=monokai" alt="GitHub Profile Summary Card" style="width:100%;">
+
 
 
 
