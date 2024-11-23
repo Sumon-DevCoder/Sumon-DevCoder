@@ -1,7 +1,3 @@
-<img src="https://i.ibb.co.com/MCHvsxP/file.png" alt="Mokkapps GitHub README header image">
-
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mustafizur+Rahman+Sumon!;" />
 </h1>
