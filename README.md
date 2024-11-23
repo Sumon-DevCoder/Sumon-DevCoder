@@ -40,7 +40,10 @@
 - 🌐 Contributing to open-source projects and collaborating with the developer community.
 - 📚 Enhancing my knowledge of advanced frameworks and tools to deliver exceptional results.
 
-# 🛠 Language and tools:
+ <h1 align="center">
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
+  &nbsp;Technologies that I know
+</h1>
 
 > Tools, languages, and other things that I like to work with.
 
