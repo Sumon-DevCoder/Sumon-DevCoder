@@ -29,6 +29,17 @@
 </a>
 </p>
 
+ # 👤 About Me:
+- 👋 MERN stack developer passionate about building modern and powerful web applications.
+- 💻 Proficient in React.js, Next.js, Redux, TypeScript, and Tailwind CSS.
+- 🌐 Skilled in creating dynamic, user-friendly, and visually appealing web interfaces.
+- 🚀 Excited about leveraging advanced tools and technologies for impactful development.
+- 📚 Dedicated to continuous learning and mastering cutting-edge trends in web development.
+### What I'm Excited About:
+- 🚀 Mastering and applying new technologies within the MERN stack ecosystem.
+- 🌐 Contributing to open-source projects and collaborating with the developer community.
+- 📚 Enhancing my knowledge of advanced frameworks and tools to deliver exceptional results.
+
 # 🛠 Language and tools:
 
 > Tools, languages, and other things that I like to work with.
