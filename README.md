@@ -155,16 +155,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  />
 
-
-
-
-
-
-
-
-
-
-<details><summary>See visitors information</summary>
+See visitors information
 
 >Counting of visitors to this page in this section started from January 02, 2023
 
