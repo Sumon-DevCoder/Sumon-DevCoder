@@ -32,10 +32,4 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,react" /><br>
 </div>
 
-<br/>
-<hr/>
 
-
-<hr/>
-
-<br/>
