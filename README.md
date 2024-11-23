@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="" src="https://i.ibb.co.com/MSdb1Nt/ddd.png">
+<img align="center" alt="Coding" width="" src="https://i.ibb.co/MSdb1Nt/ddd.png">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mustafizur+Rahman+Sumon!;" />
@@ -7,7 +7,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  style="width: 80%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devasif98&label=Profile%20views&color=0e75b6&style=flat" alt="devasif98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon-devcoder&label=Profile%20views&color=0e75b6&style=flat" alt="sumon-devcoder" /> </p>
 
 - 🔭 I’m currently working as a Full Stack Developer
 
@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://www.linkedin.com/in/mustafizur-rahman-sumon-790199290/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -37,9 +36,19 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,react" /><br>
 </div>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🔥 GitHub Stats & ⚡ GitHub Streak Stats ⚡</h2>
 <p align="center">
   <a href="https://github.com/sumon-devcoder">
-    <img src="https://github-readme-stats.vercel.app/api?username=devasif98&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sumon-devcoder&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" height="165" style="margin-right: 20px;" />
+  </a>
+  <a href="https://github.com/sumon-devcoder">
+    <img src="https://streak-stats.demolab.com?user=sumon-devcoder&theme=highcontrast&hide_border=true&fire=DD2727" alt="GitHub Streak Stats" height="165" style="margin-left: 20px;" />
+  </a>
+</p>
+
+<h2 align="center">📊 Top Languages 📊</h2>
+<p align="center">
+  <a href="https://github.com/sumon-devcoder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon-devcoder&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
   </a>
 </p>
