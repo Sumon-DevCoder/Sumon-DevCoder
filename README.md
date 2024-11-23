@@ -7,6 +7,14 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  style="width: 80%" />
 
+![Code Time Per Day (Avg)](http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue)
+![Focus](https://img.shields.io/badge/focus-FullStack-critical)
+![Projects](https://img.shields.io/badge/projects-30-important)
+![Living](https://img.shields.io/badge/living-Natore-3c9)
+![Age](https://img.shields.io/badge/age-24-blueviolet)
+![views](https://komarev.com/ghpvc/?username=sumon-devcoder&label=Profile%20views&color=0e75b6&style=flat)
+[![Github](https://img.shields.io/github/followers/sumon-devcoder?label=Follow&style=social)](https://github.com/sumon-devcoder)&nbsp;
+
 - 🔭 I’m currently working as a Full Stack Developer
 
 - 🌱 I’m currently learning **DBMS, PostgreSQL, Prisma, Docker**
@@ -27,13 +35,7 @@
 </a>
 </p>
 
-![Code Time Per Day (Avg)](http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue)
-![Focus](https://img.shields.io/badge/focus-FullStack-critical)
-![Projects](https://img.shields.io/badge/projects-30-important)
-![Living](https://img.shields.io/badge/living-Natore-3c9)
-![Age](https://img.shields.io/badge/age-24-blueviolet)
-![views](https://komarev.com/ghpvc/?username=sumon-devcoder&label=Profile%20views&color=0e75b6&style=flat)
-[![Github](https://img.shields.io/github/followers/sumon-devcoder?label=Follow&style=social)](https://github.com/sumon-devcoder)&nbsp;
+
 
  # 👤 About Me:
 - 👋 MERN stack developer passionate about building modern and powerful web applications.
