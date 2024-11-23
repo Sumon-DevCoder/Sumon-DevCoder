@@ -1,8 +1,9 @@
-![MasterHead](https://jayamwebsolutions.com/img/website.gif)
+![MasterHead](https://i.ibb.co.com/MCHvsxP/file.png)
 
 <p align="center">
   <img src="https://i.ibb.co.com/MCHvsxP/file.png" />
 </p>
+
 
 
 <h1 align="center">
