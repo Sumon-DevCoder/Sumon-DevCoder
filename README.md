@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co.com/MCHvsxP/file.png" />
-</p>
+<img src="https://i.ibb.co.com/MCHvsxP/file.png" alt="Mokkapps GitHub README header image">
 
 
 
