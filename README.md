@@ -35,9 +35,18 @@
 
 <table>
   <tr>
+      
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="react logo"  />
+      <br>Next
+    </td>
     <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react logo"  />
       <br>React
+    </td>
+      <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="react logo"  />
+      <br>Redux
     </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=javascript"
@@ -72,6 +81,11 @@
     <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css logo"  />
       <br>CSS3
     </td>
+      <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="react logo"  />
+      <br>Figma
+    </td>
+      
   </tr>
 </table>
 
