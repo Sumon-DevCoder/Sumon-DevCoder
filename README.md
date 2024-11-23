@@ -38,9 +38,7 @@
 
 <h2 align="center">🔥 Most Used Languages & GitHub Stats 🔥</h2>
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon-devcoder&layout=compact&theme=highcontrast&hide_border=true" alt="Most Used Languages" />
-    </div>
+   
     <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api?username=sumon-devcoder&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
     </div>
