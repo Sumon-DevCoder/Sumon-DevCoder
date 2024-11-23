@@ -112,7 +112,6 @@
 <hr>
 
 <h1 align="center">💖 My Favorite Stack 💖</h1>
-
 <div align="center">
   <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
