@@ -29,12 +29,51 @@
 </a>
 </p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,react,bootstrap,mui,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,react" /><br>
-</div>
+# 🛠 Language and tools:
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react logo"  />
+      <br>React
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=javascript"
+    width="48" height="48" alt="javascript logo" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript logo"  />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs logo"  />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express logo"  />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind logo"  />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb logo"  />
+      <br>Mongodb
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html logo"  />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css logo"  />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
 
  # 👤 About Me:
 - 👋 MERN stack developer passionate about building modern and powerful web applications.
