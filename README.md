@@ -139,9 +139,7 @@
   <a href="https://github.com/sumon-devcoder">
     <img src="https://github-readme-stats.vercel.app/api?username=sumon-devcoder&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" height="165" style="margin-right: 20px;" />
   </a>
-  <a href="https://github.com/sumon-devcoder">
-    <img src="https://streak-stats.demolab.com?user=sumon-devcoder&theme=highcontrast&hide_border=true&fire=DD2727" alt="GitHub Streak Stats" height="165" style="margin-left: 20px;" />
-  </a>
+
 </p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumon-devcoder&theme=monokai" alt="GitHub Profile Summary Card" style="width:100%;">
